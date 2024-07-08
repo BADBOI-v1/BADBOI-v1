@@ -41,3 +41,6 @@ href='https://wa.me/2348140825959' target="_blank"><img alt='Whatsapp' src='http
 1. Fork the repo
     <br>
 <a href="https://github.com/BADBOI-v1/BADBOI-v1/fork"><img title="BADBOI-v1" src="https://img.shields.io/badge/FORK_BADBOI-_v1-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+### 2. <a href="https://replit.com/@samjame088/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
