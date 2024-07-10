@@ -2,9 +2,9 @@
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//GitHub: @BADBOIv1
+//WhatsApp: +2348140825959
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@BADBOI
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -12,13 +12,13 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "8140825959"
 global.ownername = "🦄BADBOI"
-global.ytname = "YT: Xeon"
+global.ytname = "YT: BADBOI"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '8140825959'  //creator number
 global.ownername = '🦄BADBOI' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'BADBOI ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -26,10 +26,10 @@ global.author = '🦄DGXeon\n\nContact: +916909137213'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "BADBOI Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
