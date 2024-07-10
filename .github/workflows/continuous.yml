@@ -1,4 +1,4 @@
-name: Continuous Workflow
+name: Continuos Workflow
 
 on:
   schedule:
