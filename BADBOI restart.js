@@ -1,1 +1,1 @@
-let classic : on
+let Badboi : on
