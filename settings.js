@@ -18,15 +18,15 @@ global.location = "Nigeria, ogun-state, ilese"
 
 global.ownernumber = '+2348140825959'  //creator number
 global.ownername = '🦄BADBOI 🕷🕸v1' //owner name
-global.botname = ‘BADBOI 🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = '🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
 global.author = '🦄 BADBOI 🕷🕸v1\n\nContact: +2348140825959'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.themeemoji = '👿'
+global.wm = "badboi Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
