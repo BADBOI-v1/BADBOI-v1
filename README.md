@@ -53,6 +53,10 @@ href='https://wa.me/2348140825959' target="_blank"><img alt='Whatsapp' src='http
 
 [`Badboi-v1 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 
+-------
+## ```YOUTUBE CHANNEL FOR TUTORIALS```
+
+ - [ Click ](https://youtube.com/@BADBOI-k2i?si=1_Ae2h9Kl9IbAo7E)
 
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
