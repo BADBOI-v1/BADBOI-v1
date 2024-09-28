@@ -49,7 +49,7 @@ href='https://wa.me/2348140825959' target="_blank"><img alt='Whatsapp' src='http
 
 ## `Generate Pair Code For Session`
  
-[`Badboi-v1 Pairing Using Render`](https://badboi.onrender.com/)
+[`Badboi-v1 Pairing Using Render`](https://creds-json-paring-generator-by-badboi-2.onrender.com)
 
 [`Badboi-v1 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 
